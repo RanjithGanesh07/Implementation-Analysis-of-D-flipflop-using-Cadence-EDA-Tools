@@ -47,7 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+
+![Screenshot 2024-10-21 082643](https://github.com/user-attachments/assets/c6d03a1b-d14d-4ff7-abcf-10da464c4b2e)
+
 
 
 
@@ -66,7 +68,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![Screenshot 2024-10-21 083106](https://github.com/user-attachments/assets/2e791b38-a43a-4b87-8f7a-2589999d61f4)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +82,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![Screenshot 2024-10-21 084427](https://github.com/user-attachments/assets/2d244b5a-eaee-4045-8cae-12dfd6a8dc0b)
+
 
 
  
@@ -94,20 +98,20 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![WhatsApp Image 2024-10-21 at 09 36 12_cdaa942f](https://github.com/user-attachments/assets/cbb37bc5-b8bf-4efe-9af4-f6a3ad531955)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![WhatsApp Image 2024-10-21 at 09 34 57_9f9ceb6c](https://github.com/user-attachments/assets/d0b9968e-bb8a-4b2f-926a-77f30d9826d4)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+![WhatsApp Image 2024-10-21 at 09 37 11_1c30aa39](https://github.com/user-attachments/assets/5b806e33-8513-4d84-b4df-024a313a65bf)
+
 
 
 Results:
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
-
-
 
 
 
